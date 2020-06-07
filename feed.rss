@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+<rss version="2.0" xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru">
+	<channel>
+		<title>GSPACE</title>
+		<link><![CDATA[https://glammingspace.blogspot.com]]></link>
+		<description>GSPACE</description>
+		<language>en</language>
+		<pubDate>Sun, 07 Jun 2020 09:59:42 +0300</pubDate>
+		<generator>MySitemapGenerator (www.mysitemapgenerator.com)</generator>
+
+		<item turbo="true">
+			<guid isPermaLink="false">1982072507</guid>
+			<title>Webview in React Native</title>
+			<link>https://glammingspace.blogspot.com/search?updated-max=2019-10-14T22:19:00-07:00&amp;max-results=30</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<yandex:full-text><![CDATA[Webview in React Native 
+ In this post let us see how WebView works in react native. WebView enables us to display the Html page or code within our app. In our previ... 
+ Adarshreddy Adelli Friday, October 11, 2019 
+ Build For Digital India |Google | MeitY 
+ Google and the Ministry of Electronics & Information Technology (MeitY) have planned a new program in which Student Developers can Solve... 
+ Adarshreddy Adelli Saturday, October 5, 2019 
+ Getting Started with React Native - Visual studio code 
+ B OOM..! Native development is really a new love for developers, especially developers from web designing background. You can find great fra... 
+ Adarshreddy Adelli Saturday, September 28, 2019 android App development IOS Nodejs react-native 
+ Regex , Regular Expressions in 2 mins 
+ T oday I have been on my daily routine of checking my social media. Suddenly I fell in love with a post on Linkedin which explains popular r... 
+ Adarshreddy Adelli Saturday, September 14, 2019 bash Linux operating systems 
+ Network Programming In Python 
+ Contents 1 Introduction 1.1 Socket 1.2 Socket server 2 TCP&UDP servers The present world is entirely taken off by the Inte... 
+ Adarshreddy Adelli Friday, September 6, 2019 Computer operating systems python 
+ Style Browser scrollbar with gradients using Css 
+ B rowsers come with their default Scroll bar. There comes a situation, to style the scrollbar of the browser as our web app should attract ... 
+ Adarshreddy Adelli Wednesday, August 28, 2019 UI / UX web development 
+ Reverse Engineering Windows / Unix executable with python 
+ T he best way to find vulnerabilities or do malware analysis is Reverse Engineering the executable file of an application. Here we do analy... 
+ Adarshreddy Adelli Saturday, August 17, 2019 databases penetration testing python 
+ Boost your website quality and SEO using Lighthouse 
+ W ebsites are really becoming powerful and beautiful. These vibrant changes also brought great challenges for a web developer. Apart from U... 
+ Adarshreddy Adelli Sunday, August 4, 2019 SEO UI / UX web development 
+ Parsing feeds in javascript using feednami 
+ I never thought of writing two different posts for a single outcome ! But you know things happens. While my previous post Parsing feeds in... 
+ Adarshreddy Adelli Friday, July 19, 2019 programming languages UI / UX web development 
+ Adding night mode to our website 
+ Cheers ..! night mode forced me to write this post .Night mode must be appreciated because some users really care of night mode in our web... 
+ Adarshreddy Adelli Friday, July 5, 2019 UI / UX web development 
+ Federated Learning - Secure way of training from real time data. 
+ Data is key factor to improve performance of our machine learning model. But we know that the data, our model encounters some times have ... 
+ Adarshreddy Adelli Sunday, June 30, 2019 Artificial intelligence 
+ Parsing feeds in python using feedparser 
+ Hello there ! In this post lets see how to parse feed urls using python. Feed urls are provided by websites to share their content in the... 
+ Adarshreddy Adelli Saturday, June 15, 2019 python 
+ TCAV- Its time to rate the factors of neural network 
+ Google I/O 2019 was more interesting for me to watch. There are eye catching innovations displayed in the conference. Among them TCAV (st... 
+ Adarshreddy Adelli Wednesday, May 8, 2019 Artificial intelligence Machine learning neural networks 
+ Bosque - a regularised programming Language from Microsoft 
+ Well ..! there are more and more programming languages in the world that follow different patterns of programming ,some of them go stru... 
+ Adarshreddy Adelli Saturday, April 20, 2019 programming languages 
+ Kivy - saved my Ass from learning android , swift , native. 
+ App market in this current world have some bigger numbers. Today making an app is easy with newer technologies. Native apps have also ... 
+ Adarshreddy Adelli Saturday, April 13, 2019 python 
+ Printing emoji 's in Python console 
+ We often prefer emoji's while making conversations. Today in this post we dont make conversations , Instead we use python to print t... 
+ Adarshreddy Adelli Saturday, February 16, 2019 python 
+ Programming API's In Python | PART-2 
+ Finally we reached to Part-2 of our programming API with python , Hope you have enjoyed our last post. If you have entered directly into t... 
+ Adarshreddy Adelli Friday, February 15, 2019 python 
+ Programming API's In Python | PART-1 
+ Hello readers ..! In this post lets dive into my personal favourite thing called API. API stands for Application Programming Interface , ... 
+ Adarshreddy Adelli Thursday, February 14, 2019 python 
+ pyRAT - Remote administration tool by linux_choice 
+ PyRat is a remote administration tool simply we call as RAT. It is used to take the control over target machine by sending a malicious... 
+ Adarshreddy Adelli Wednesday, February 13, 2019 computer hacking hacking 
+ Serving files using Http server in Python 
+ In this post , we will send the files to a user using python and ngrok. This method is just for showcasing the way that python server wo... 
+ Adarshreddy Adelli Sunday, January 27, 2019 
+ Google launches opensource.dev site to promote opensourcing 
+ Google recently launched a website to promote the importance of Opensourcing. Google is well known for it's opensourcing culture , ri... 
+ Adarshreddy Adelli Saturday, January 12, 2019 technology Tools]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><a href="https://glammingspace.blogspot.com/2019/10/webview-in-react-native.html"><img src="https://1.bp.blogspot.com/-dsfpv04OxuQ/XaBAnjOqwbI/AAAAAAAAHk0/kvR7G0812aMdoFw57nkfa4Hb0upJjW9awCLcBGAsYHQ/s72-c/Screenshot+%2821%29.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/10/webview-in-react-native.html">Webview in React Native</a></h2> </p><p> In this post let us see how WebView works in react native. WebView enables us to display the Html page or code within our app. In our previ... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Friday, October 11, 2019 </p><p> <a href="https://glammingspace.blogspot.com/2019/10/build-for-digital-india-google-meity.html"><img src="https://1.bp.blogspot.com/-_0Gs6J08jOQ/XZlwpHjGgUI/AAAAAAAAHVs/wJLsfv4C9-IabuBhT_uTnCrwTvk3KpeYwCLcBGAsYHQ/s72-c/unnamed.jpg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/10/build-for-digital-india-google-meity.html">Build For Digital India |Google | MeitY</a></h2> </p><p> Google and the Ministry of Electronics & Information Technology (MeitY) have planned a new program in which Student Developers can Solve... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, October 5, 2019 </p><p> <a href="https://glammingspace.blogspot.com/2019/09/getting-started-with-react-native.html"><img src="https://1.bp.blogspot.com/-_wRq0BXMudo/XY71xEPGhcI/AAAAAAAAHMY/kpXEEFvF-QIYfsQqrmTyOZUlw62AQy0JQCLcBGAsYHQ/s72-c/REaCT+NatIve.jpg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/09/getting-started-with-react-native.html">Getting Started with React Native - Visual studio code</a></h2> </p><p> B OOM..! Native development is really a new love for developers, especially developers from web designing background. You can find great fra... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, September 28, 2019 <a href="https://glammingspace.blogspot.com/search/label/android">android</a> <a href="https://glammingspace.blogspot.com/search/label/App development">App development</a> <a href="https://glammingspace.blogspot.com/search/label/IOS">IOS</a> <a href="https://glammingspace.blogspot.com/search/label/Nodejs">Nodejs</a> <a href="https://glammingspace.blogspot.com/search/label/react-native">react-native</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/09/regex-regular-expressions-in-2-mins.html"><img src="https://1.bp.blogspot.com/-irxJ3zqJnHI/XX28ybuLdXI/AAAAAAAAG7c/Pg6BHtF0QbIbhlMjtfRbdCG5tU--Vd4cACEwYBhgL/s72-c/nlbpz.jpg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/09/regex-regular-expressions-in-2-mins.html">Regex , Regular Expressions in 2 mins</a></h2> </p><p> T oday I have been on my daily routine of checking my social media. Suddenly I fell in love with a post on Linkedin which explains popular r... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, September 14, 2019 <a href="https://glammingspace.blogspot.com/search/label/bash">bash</a> <a href="https://glammingspace.blogspot.com/search/label/Linux">Linux</a> <a href="https://glammingspace.blogspot.com/search/label/operating systems">operating systems</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/09/network-programming-in-python.html"><img src="https://1.bp.blogspot.com/-hSPH8yGC2go/XXKPkfszgBI/AAAAAAAAGw0/HL37_Gldh1IALL8Mlg-eUL4UpQo5zYjvwCLcBGAs/s72-c/Add+a+heading.jpg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/09/network-programming-in-python.html">Network Programming In Python</a></h2> </p><p> Contents 1 Introduction 1.1 Socket 1.2 Socket server 2 TCP&UDP servers The present world is entirely taken off by the Inte... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Friday, September 6, 2019 <a href="https://glammingspace.blogspot.com/search/label/Computer">Computer</a> <a href="https://glammingspace.blogspot.com/search/label/operating systems">operating systems</a> <a href="https://glammingspace.blogspot.com/search/label/python">python</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/08/style-browser-scrollbar-with-gradients.html"><img src="https://1.bp.blogspot.com/-2XcKQyZVzOk/XWaF57MQJ2I/AAAAAAAAGmU/yiefGjc9_J8BvyXCW3vXqsPMLVJc1G25ACLcBGAs/s72-c/hide-scrollbar-in-google-chrome-3.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/08/style-browser-scrollbar-with-gradients.html">Style Browser scrollbar with gradients using Css</a></h2> </p><p> B rowsers come with their default Scroll bar. There comes a situation, to style the scrollbar of the browser as our web app should attract ... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Wednesday, August 28, 2019 <a href="https://glammingspace.blogspot.com/search/label/UI / UX">UI / UX</a> <a href="https://glammingspace.blogspot.com/search/label/web development">web development</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/08/reverse-engineering-windows-unix.html"><img src="https://1.bp.blogspot.com/-2B5eq4N493U/XVenVkugAPI/AAAAAAAAGeo/JVb-ejJrAeAbAijPVlVoJSiVyfnvfdgJACLcBGAs/s72-c/maxresdefault.jpg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/08/reverse-engineering-windows-unix.html">Reverse Engineering Windows / Unix executable with python</a></h2> </p><p> T he best way to find vulnerabilities or do malware analysis is Reverse Engineering the executable file of an application. Here we do analy... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, August 17, 2019 <a href="https://glammingspace.blogspot.com/search/label/databases">databases</a> <a href="https://glammingspace.blogspot.com/search/label/penetration testing">penetration testing</a> <a href="https://glammingspace.blogspot.com/search/label/python">python</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/08/boost-your-website-quality-and-seo.html"><img src="https://1.bp.blogspot.com/-kmgx_BMV-Bc/XUaOXwUmVoI/AAAAAAAAGOA/WLe2iIPr5PQ31Gc3iNP8_IepFVMDeX43ACLcBGAs/s72-c/pwa-lighthouse.jpg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/08/boost-your-website-quality-and-seo.html">Boost your website quality and SEO using Lighthouse</a></h2> </p><p> W ebsites are really becoming powerful and beautiful. These vibrant changes also brought great challenges for a web developer. Apart from U... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Sunday, August 4, 2019 <a href="https://glammingspace.blogspot.com/search/label/SEO">SEO</a> <a href="https://glammingspace.blogspot.com/search/label/UI / UX">UI / UX</a> <a href="https://glammingspace.blogspot.com/search/label/web development">web development</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/07/parsing-feeds-in-javascript-using.html"><img src="https://1.bp.blogspot.com/-kLfiBer_pZ8/XTIHkZBJTZI/AAAAAAAAFbc/xcOqoQiIsfEhrOrdhiN5-WeIk-ci_VClQCPcBGAYYCw/s72-c/baby+boy%21.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/07/parsing-feeds-in-javascript-using.html">Parsing feeds in javascript using feednami</a></h2> </p><p> I never thought of writing two different posts for a single outcome ! But you know things happens. While my previous post Parsing feeds in... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Friday, July 19, 2019 <a href="https://glammingspace.blogspot.com/search/label/programming languages">programming languages</a> <a href="https://glammingspace.blogspot.com/search/label/UI / UX">UI / UX</a> <a href="https://glammingspace.blogspot.com/search/label/web development">web development</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/07/adding-night-mode-to-our-website.html"><img src="https://1.bp.blogspot.com/-u1a9pmUrg0s/XSAhDSJ5HtI/AAAAAAAAFTI/3lwcSOuPMEIvavqK4BIB2npTQYPR0HpOACLcBGAs/s72-c/Add+a+heading.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/07/adding-night-mode-to-our-website.html">Adding night mode to our website</a></h2> </p><p> Cheers ..! night mode forced me to write this post .Night mode must be appreciated because some users really care of night mode in our web... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Friday, July 5, 2019 <a href="https://glammingspace.blogspot.com/search/label/UI / UX">UI / UX</a> <a href="https://glammingspace.blogspot.com/search/label/web development">web development</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/06/federated-learning-secure-way-of.html"><img src="https://1.bp.blogspot.com/-86OAGRTPIPo/XRheM2NQwyI/AAAAAAAAFN8/QrXvPk3mEFMYOhauqHZuaULxjlqKCZFJQCEwYBhgL/s72-c/Federated+learning.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/06/federated-learning-secure-way-of.html">Federated Learning - Secure way of training from real time data.</a></h2> </p><p> Data is key factor to improve performance of our machine learning model. But we know that the data, our model encounters some times have ... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Sunday, June 30, 2019 <a href="https://glammingspace.blogspot.com/search/label/Artificial intelligence">Artificial intelligence</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/06/parsing-feeds-in-python-using-feedparser.html"><img src="https://1.bp.blogspot.com/-Pcy2ek4XjIY/XQW7O97bRKI/AAAAAAAAFGw/5YUCDjW08NshIF4PmdhGxPGRjQb-WlmbwCLcBGAs/s72-c/vengix_ash.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/06/parsing-feeds-in-python-using-feedparser.html">Parsing feeds in python using feedparser</a></h2> </p><p> Hello there ! In this post lets see how to parse feed urls using python. Feed urls are provided by websites to share their content in the... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, June 15, 2019 <a href="https://glammingspace.blogspot.com/search/label/python">python</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/05/tcav-its-time-to-enquiry-neural-network.html"><img src="https://i.ytimg.com/vi/8Bi-EhFPSLk/0.jpg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/05/tcav-its-time-to-enquiry-neural-network.html">TCAV- Its time to rate the factors of neural network</a></h2> </p><p> Google I/O 2019 was more interesting for me to watch. There are eye catching innovations displayed in the conference. Among them TCAV (st... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Wednesday, May 8, 2019 <a href="https://glammingspace.blogspot.com/search/label/Artificial intelligence">Artificial intelligence</a> <a href="https://glammingspace.blogspot.com/search/label/Machine learning">Machine learning</a> <a href="https://glammingspace.blogspot.com/search/label/neural networks">neural networks</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/04/bosque-regularised-programming-language.html"><img src="https://1.bp.blogspot.com/-eElYvd25KyA/XTqmN1lUKiI/AAAAAAAAFhI/x0KIFAi4UtoepTrUWJ97f8yd6MYEPvi-wCLcBGAs/s72-c/images+%2835%29.jpeg"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/04/bosque-regularised-programming-language.html">Bosque - a regularised programming Language from Microsoft</a></h2> </p><p> Well ..! there are more and more programming languages in the world that follow different patterns of programming ,some of them go stru... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, April 20, 2019 <a href="https://glammingspace.blogspot.com/search/label/programming languages">programming languages</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/04/kivy-saved-my-ass-from-learning-android.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeqCtT5hoMuMp8Hx3x8yAu6qro8vV2NYUXulq49yEc6t2feFE5"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/04/kivy-saved-my-ass-from-learning-android.html">Kivy - saved my Ass from learning android , swift , native.</a></h2> </p><p> App market in this current world have some bigger numbers. Today making an app is easy with newer technologies. Native apps have also ... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, April 13, 2019 <a href="https://glammingspace.blogspot.com/search/label/python">python</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/02/printing-emoji-s-in-python-console.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz1ZPB4KRc4IN0WopOY37gm1YgWf9rXTJm7f8ZgacJjllyE6jQ"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/02/printing-emoji-s-in-python-console.html">Printing emoji 's in Python console</a></h2> </p><p> We often prefer emoji's while making conversations. Today in this post we dont make conversations , Instead we use python to print t... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, February 16, 2019 <a href="https://glammingspace.blogspot.com/search/label/python">python</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/02/programming-apis-in-python-part-2.html"><img src="https://1.bp.blogspot.com/-oHdtIJLkEIA/XS1wktG2JuI/AAAAAAAAFZ4/8YUGAvdesQkvhJVedeRJzYi7askqre4VwCLcBGAs/s72-c/adarshreddy_adelli+api%27s.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/02/programming-apis-in-python-part-2.html">Programming API's In Python | PART-2</a></h2> </p><p> Finally we reached to Part-2 of our programming API with python , Hope you have enjoyed our last post. If you have entered directly into t... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Friday, February 15, 2019 <a href="https://glammingspace.blogspot.com/search/label/python">python</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/02/programming-apis-in-python-part-1.html"><img src="https://i2.wp.com/techweez.com/wp-content/uploads/2015/11/twitter.gif?fit=500,303&ssl=1"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/02/programming-apis-in-python-part-1.html">Programming API's In Python | PART-1</a></h2> </p><p> Hello readers ..! In this post lets dive into my personal favourite thing called API. API stands for Application Programming Interface , ... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Thursday, February 14, 2019 <a href="https://glammingspace.blogspot.com/search/label/python">python</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/02/pyrat-remote-administration-tool-by.html"><img src="https://user-images.githubusercontent.com/34893261/52543932-bc5afc80-2d94-11e9-882d-6e20e2e38958.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/02/pyrat-remote-administration-tool-by.html">pyRAT - Remote administration tool by linux_choice</a></h2> </p><p> PyRat is a remote administration tool simply we call as RAT. It is used to take the control over target machine by sending a malicious... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Wednesday, February 13, 2019 <a href="https://glammingspace.blogspot.com/search/label/computer hacking">computer hacking</a> <a href="https://glammingspace.blogspot.com/search/label/hacking">hacking</a> </p><p> <a href="https://glammingspace.blogspot.com/2019/01/sending-bulk-files-using-http-server-in.html"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2Ks1M7bHjS2lmccX1e-Q_fFSfKewp2-wLqC5N4u7VPZtZvR8"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/01/sending-bulk-files-using-http-server-in.html">Serving files using Http server in Python</a></h2> </p><p> In this post , we will send the files to a user using python and ngrok. This method is just for showcasing the way that python server wo... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Sunday, January 27, 2019 </p><p> <a href="https://glammingspace.blogspot.com/2019/01/google-launches-opensourcedev-site-to.html"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Opensource.svg/2000px-Opensource.svg.png"></a> </p><p> <h2><a href="https://glammingspace.blogspot.com/2019/01/google-launches-opensourcedev-site-to.html">Google launches opensource.dev site to promote opensourcing</a></h2> </p><p> Google recently launched a website to promote the importance of Opensourcing. Google is well known for it's opensourcing culture , ri... </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, January 12, 2019 <a href="https://glammingspace.blogspot.com/search/label/technology">technology</a> <a href="https://glammingspace.blogspot.com/search/label/Tools">Tools</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://avatars3.githubusercontent.com/u/38877279" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">632721436</guid>
+			<title>6 killer tricks to write less Javascript</title>
+			<link>https://glammingspace.blogspot.com/2020/04/6-killer-tricks-to-write-less-javascript.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>This post is for people who are lazy like me. I often find myself writing lesser code and also lesser comments (my bad). Writing lesser lines will not that impact your simple project but probably you can see some difference in a complex project. This will be very useful for people who just started coding javascript.</description>
+			<yandex:full-text><![CDATA[6 killer tricks to write less Javascript
+ Posted by Adarshreddy Adelli 
+ Sunday, April 26, 2020 
+ This post is for people who are lazy like me. I often find myself writing less code and also fewer comments (my bad). Writing fewer lines will not that impact your simple project but probably you can see some difference in a complex project. This will be very useful for people who just started coding javascript.
+ let's start with an official tip
+ Ternary Operator:
+ let isEmpty=true;
+ if(isEmpty==true){
+ console.log('Man this is empty');
+ } else {
+ console.log('not Empty');
+ } 
+ which can be written as 
+ isEmpty ? console.log('Man this is empty'): console.log('not empty'); 
+ For loop:
+ const lang=['c' , 'python' , 'javascript']
+ for (let i=0;i 
+ for(let lang of lang ) console.log(lang); 
+ Assign value :
+ if (age){
+ age=age;
+ }else {
+ age=18;
+ } let age= age || 18; 
+ Template Literals:
+ const blog='art'
+ const sentence = 'blogging is an' + blog + '!' ; 
+ const sentence = blogging is an ${blog}!; 
+ Destructuring :
+ const post ={
+ data:{
+ blog_title:'6 killer tricks to write less Javascript',
+ author:'adarshreddy adelli',
+ };
+ }
+ const blog_title=post.data.blog_title;
+ const author=post.data.author; const {blog_title , author } = post.data; 
+ Identical keys and values :
+ const authorDetails ={
+ name : name,
+ email:email,
+ }; 
+ const authorDetails = { name , email}; 
+ Hope you liked this post. Thank you!
+ Adarshreddy Adelli Sunday, April 26, 2020 javascript]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>6 killer tricks to write less Javascript</h1> </p><p><img src="https://1.bp.blogspot.com/-jTeBsLWh5ec/XqUqoUTKknI/AAAAAAAALn8/pjjOSrVsPu49tmfhZPeIR-Qtr0mLOxUwACLcBGAsYHQ/w600/_+JS.jpg"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Sunday, April 26, 2020 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2020/04/6-killer-tricks-to-write-less-javascript.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2020/04/6-killer-tricks-to-write-less-javascript.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2020/04/6-killer-tricks-to-write-less-javascript.html&media=https://1.bp.blogspot.com/-jTeBsLWh5ec/XqUqoUTKknI/AAAAAAAALn8/pjjOSrVsPu49tmfhZPeIR-Qtr0mLOxUwACLcBGAsYHQ/s72-c/_+JS.jpg&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=3762099202772510738&target=email"></a> <a href="https://api.whatsapp.com/send?text=6 killer tricks to write less Javascript https://glammingspace.blogspot.com/2020/04/6-killer-tricks-to-write-less-javascript.html"></a> </p><p> This post is for people who are lazy like me. I often find myself writing less code and also fewer comments (my bad). Writing fewer lines will not that impact your simple project but probably you can see some difference in a complex project. This will be very useful for people who just started coding javascript.</p><p> <a href="https://1.bp.blogspot.com/-jTeBsLWh5ec/XqUqoUTKknI/AAAAAAAALn8/pjjOSrVsPu49tmfhZPeIR-Qtr0mLOxUwACLcBGAsYHQ/s1600/_+JS.jpg"><img src="https://1.bp.blogspot.com/-jTeBsLWh5ec/XqUqoUTKknI/AAAAAAAALn8/pjjOSrVsPu49tmfhZPeIR-Qtr0mLOxUwACLcBGAsYHQ/s320/_+JS.jpg"></a></p><p> let's start with an official tip</p><p> Ternary Operator:</p><p> let isEmpty=true;</p><p> if(isEmpty==true){</p><p> console.log('Man this is empty');</p><p> } else {</p><p> console.log('not Empty');</p><p> } </p><p> which can be written as </p><p> isEmpty ? console.log('Man this is empty'): console.log('not empty'); </p><p> For loop:</p><p> const lang=['c' , 'python' , 'javascript']</p><p> for (let i=0;i </p><p> for(let lang of lang ) console.log(lang); </p><p> Assign value :</p><p> if (age){</p><p> age=age;</p><p> }else {</p><p> age=18;</p><p> } let age= age || 18; </p><p> Template Literals:</p><p> const blog='art'</p><p> const sentence = 'blogging is an' + blog + '!' ; </p><p> const sentence = blogging is an ${blog}!; </p><p> Destructuring :</p><p> const post ={</p><p> data:{</p><p> blog_title:'6 killer tricks to write less Javascript',</p><p> author:'adarshreddy adelli',</p><p> };</p><p> }</p><p> const blog_title=post.data.blog_title;</p><p> const author=post.data.author; const {blog_title , author } = post.data; </p><p> Identical keys and values :</p><p> const authorDetails ={</p><p> name : name,</p><p> email:email,</p><p> }; </p><p> const authorDetails = { name , email}; </p><p> Hope you liked this post. Thank you!</p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Sunday, April 26, 2020 <a href="https://glammingspace.blogspot.com/search/label/javascript">javascript</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://1.bp.blogspot.com/-jTeBsLWh5ec/XqUqoUTKknI/AAAAAAAALn8/pjjOSrVsPu49tmfhZPeIR-Qtr0mLOxUwACLcBGAsYHQ/w1200-h630-p-k-no-nu/_%2BJS.jpg" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">4243657120</guid>
+			<title>Recovering data from a corrupted or virus attacked device</title>
+			<link>https://glammingspace.blogspot.com/2020/01/recovering-data-from-corrupted-or-virus.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>We trust our storage devices. But what if it went down ?? Then we start worrying about that data. This also happened to me previously. But at last, I could retrieve the data from my Pendrive. Let's see how we can do that. For this, I will be using PhotoRec a tool by Cgsecurity which is packaged with a powerful data recovery tool called TestDisk</description>
+			<yandex:full-text><![CDATA[Recovering data from a corrupted or virus attacked device
+ Posted by Adarshreddy Adelli 
+ Tuesday, January 7, 2020 
+ We trust our storage devices. But what if it went down ?? Then we start worrying about that data. This also happened to me previously. But at last, I could retrieve the data from my Pendrive. Let's see how we can do that. For this, I will be using PhotoRec a tool by Cgsecurity which is packaged with a powerful data recovery tool called TestDisk. I personally loved using TestDisk while dealing with partitions. Cgsecurity says that you can use TestDisk for 
+ Fix partition table, recover deleted partition 
+ Recover FAT32 boot sector from its backup 
+ Rebuild FAT12/FAT16/FAT32 boot sector 
+ Fix FAT tables 
+ Rebuild NTFS boot sector 
+ Recover NTFS boot sector from its backup 
+ Fix MFT using MFT mirror 
+ Locate ext2/ext3/ext4 Backup SuperBlock 
+ Undelete files from FAT, exFAT, NTFS, and ext2 filesystem 
+ Copy files from deleted FAT, exFAT, NTFS and ext2/ext3/ext4 partitions. 
+ I am using Kali Linux for this. I think it comes preinstalled with kali if not install it using apt. 
+ sudo apt-get install testdisk Now we would recover the data from our memory device using Photorec.
+ Open Photorec
+ sudo photorec 
+ Now select /dev/sdb for me VendorCo is the device that I would like to recover. 
+ Now click on FileOpt to select the files. Opting the files helps us to recover the data using formats. For example, if we would like to recover only video files we would use mp4/3gp etc... Here it displays the list of recoverable files you can select the file formats in the menu using spacebar press b to save changes. 
+ Then the previous menu appears.
+ Now click on search to search for the recoverable files
+ Now we need to select an external(not in a memory device) location for saving recovered files
+ Now press c to save the recovering directory I am using Pictures here
+ We have done the recovery !
+ How it has happened?? 
+ Most operating systems store the data in a continuous way to minimize data fragmentation. when a file is deleted only the meta-information is removed. Names and the data are still present without its location address this is the reason recovery tools don't recover by folder names it just recovers the files. The data exists until some or all of it is overwritten.
+ Adarshreddy Adelli Tuesday, January 7, 2020 forensics Linux]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>Recovering data from a corrupted or virus attacked device</h1> </p><p><img src="https://1.bp.blogspot.com/-tJwpn4u3Sss/XhVlY4vioYI/AAAAAAAAJH4/s11Y1Q4Tt4gtahL8phxO4z_wlsx-cJTHgCLcBGAsYHQ/w600/Screenshot+from+2020-01-08+10-45-27.png"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Tuesday, January 7, 2020 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2020/01/recovering-data-from-corrupted-or-virus.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2020/01/recovering-data-from-corrupted-or-virus.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2020/01/recovering-data-from-corrupted-or-virus.html&media=https://1.bp.blogspot.com/-tJwpn4u3Sss/XhVlY4vioYI/AAAAAAAAJH4/s11Y1Q4Tt4gtahL8phxO4z_wlsx-cJTHgCLcBGAsYHQ/s72-c/Screenshot+from+2020-01-08+10-45-27.png&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=5843885766072286457&target=email"></a> <a href="https://api.whatsapp.com/send?text=Recovering data from a corrupted or virus attacked device https://glammingspace.blogspot.com/2020/01/recovering-data-from-corrupted-or-virus.html"></a> </p><p> We trust our storage devices. But what if it went down ?? Then we start worrying about that data. This also happened to me previously. But at last, I could retrieve the data from my Pendrive. Let's see how we can do that. For this, I will be using PhotoRec a tool by Cgsecurity which is packaged with a powerful data recovery tool called TestDisk. I personally loved using TestDisk while dealing with partitions. Cgsecurity says that you can use TestDisk for </p><p> Fix partition table, recover deleted partition </p><p> Recover FAT32 boot sector from its backup </p><p> Rebuild FAT12/FAT16/FAT32 boot sector </p><p> Fix FAT tables </p><p> Rebuild NTFS boot sector </p><p> Recover NTFS boot sector from its backup </p><p> Fix MFT using MFT mirror </p><p> Locate ext2/ext3/ext4 Backup SuperBlock </p><p> Undelete files from FAT, exFAT, NTFS, and ext2 filesystem </p><p> Copy files from deleted FAT, exFAT, NTFS and ext2/ext3/ext4 partitions. </p><p> I am using Kali Linux for this. I think it comes preinstalled with kali if not install it using apt. </p><p> sudo apt-get install testdisk Now we would recover the data from our memory device using Photorec.</p><p> Open Photorec</p><p> sudo photorec </p><p> <a href="https://1.bp.blogspot.com/-tJwpn4u3Sss/XhVlY4vioYI/AAAAAAAAJH4/s11Y1Q4Tt4gtahL8phxO4z_wlsx-cJTHgCLcBGAsYHQ/s1600/Screenshot+from+2020-01-08+10-45-27.png"><img src="https://1.bp.blogspot.com/-tJwpn4u3Sss/XhVlY4vioYI/AAAAAAAAJH4/s11Y1Q4Tt4gtahL8phxO4z_wlsx-cJTHgCLcBGAsYHQ/s320/Screenshot+from+2020-01-08+10-45-27.png"></a></p><p> Now select /dev/sdb for me VendorCo is the device that I would like to recover. </p><p> <a href="https://1.bp.blogspot.com/-bmLvXDe1Szk/XhVmtV3X-AI/AAAAAAAAJIA/pZJBFvkBgW4o569ooMcfXEtO-0RSnHC6QCLcBGAsYHQ/s1600/Screenshot+from+2020-01-08+10-50-52.png"><img src="https://1.bp.blogspot.com/-bmLvXDe1Szk/XhVmtV3X-AI/AAAAAAAAJIA/pZJBFvkBgW4o569ooMcfXEtO-0RSnHC6QCLcBGAsYHQ/s320/Screenshot+from+2020-01-08+10-50-52.png"></a></p><p> Now click on FileOpt to select the files. Opting the files helps us to recover the data using formats. For example, if we would like to recover only video files we would use mp4/3gp etc... Here it displays the list of recoverable files you can select the file formats in the menu using spacebar press b to save changes. </p><p> Then the previous menu appears.</p><p> Now click on search to search for the recoverable files</p><p> Now we need to select an external(not in a memory device) location for saving recovered files</p><p> <a href="https://1.bp.blogspot.com/-yIKpDqN3v7I/XhV1VaYS2UI/AAAAAAAAJIU/TrSG87TUuQEp22VD7RZ_bXO0Ak7rRiWuwCLcBGAsYHQ/s1600/Screenshot+from+2020-01-08+11-52-25.png"><img src="https://1.bp.blogspot.com/-yIKpDqN3v7I/XhV1VaYS2UI/AAAAAAAAJIU/TrSG87TUuQEp22VD7RZ_bXO0Ak7rRiWuwCLcBGAsYHQ/s320/Screenshot+from+2020-01-08+11-52-25.png"></a></p><p> Now press c to save the recovering directory I am using Pictures here</p><p> <a href="https://1.bp.blogspot.com/-nBUsVjCINYY/XhV7MUmYftI/AAAAAAAAJIg/pSj2OOrQuR4-TqfQHKdAzeTK-DaH23lUACLcBGAsYHQ/s1600/Screenshot+from+2020-01-08+11-56-26.png"><img src="https://1.bp.blogspot.com/-nBUsVjCINYY/XhV7MUmYftI/AAAAAAAAJIg/pSj2OOrQuR4-TqfQHKdAzeTK-DaH23lUACLcBGAsYHQ/s320/Screenshot+from+2020-01-08+11-56-26.png"></a></p><p> We have done the recovery !</p><p> How it has happened?? </p><p> Most operating systems store the data in a continuous way to minimize data fragmentation. when a file is deleted only the meta-information is removed. Names and the data are still present without its location address this is the reason recovery tools don't recover by folder names it just recovers the files. The data exists until some or all of it is overwritten.</p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Tuesday, January 7, 2020 <a href="https://glammingspace.blogspot.com/search/label/forensics">forensics</a> <a href="https://glammingspace.blogspot.com/search/label/Linux">Linux</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://1.bp.blogspot.com/-tJwpn4u3Sss/XhVlY4vioYI/AAAAAAAAJH4/s11Y1Q4Tt4gtahL8phxO4z_wlsx-cJTHgCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot%2Bfrom%2B2020-01-08%2B10-45-27.png" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">1192456665</guid>
+			<title>Build a live Corona tracker using JQuery</title>
+			<link>https://glammingspace.blogspot.com/2020/04/build-corona-live-tracker-using-jquery.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>Well, coronavirus is everywhere now and most countries are suffering from its effect. I hope everything should be fine within a short period. In this post, we shall build a basic live corona tracker using a javascript's jquery library.</description>
+			<yandex:full-text><![CDATA[Build a live Corona tracker using JQuery
+ Posted by Adarshreddy Adelli 
+ Thursday, April 16, 2020 
+ Well, coronavirus is everywhere now and most countries are suffering from its effect. I hope everything should be fine within a short period. In this post, we shall build a basic live corona tracker using a javascript's jquery library. 
+ Developers will be ready to create solutions to supplement to the world whenever a pandemic enters. Now let us create something !. Thanks to sources like NovelCovid API for providing the live data. 
+ As always we will go with the Html first. 
+ div id ="https://glammingspace.blogspot.com/2020/04/total" > span > span > div > div id ="https://glammingspace.blogspot.com/2020/04/d" > span > span > div > div id ="https://glammingspace.blogspot.com/2020/04/ac" > span class ="https://glammingspace.blogspot.com/2020/04/count" > span > div > div id ="https://glammingspace.blogspot.com/2020/04/rc" > span class ="https://glammingspace.blogspot.com/2020/04/count" > span > div > Here total stands for total, d, ac, rc stands for total cases, deaths, active cases, recovered cases respectively. 
+ For now, I am going to build this tracker only for India but you could build it for global without changing anything except API URL. If you open the API in the browser, It shows a JSON. 
+ {"updated":1587037599908,"country":"India","countryInfo":{"_id":356,"iso2":"IN","iso3":"IND","lat":20,"long":77,"flag":"https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/in.png"},"cases":12456,"todayCases":86,"deaths":423,"todayDeaths":1,"recovered":1513,"active":10520,"critical":0,"casesPerOneMillion":9,"deathsPerOneMillion":0,"tests":274599,"testsPerOneMillion":199} Now let us write jquery to pull and display the data from this JSON. 
+ $.getJSON('https://corona.lmao.ninja/countries/India', function(data) {
+ var text = `${data.cases}
+`
+ var deathsc = `${data.deaths}`
+ var activec = `${data.active}`
+ var recoveredc = `${data.recovered}`
+ var todayCasesc = `${data.todayCases}`
+ $('#mypanel').html(text);
+ $('#d').html(deathsc);
+ $('#ac').html(activec);
+ $('#rc').html(recoveredc);});
+ Initially, we are fetching the JSON data and then we are storing them in some variables and appending the data to the HTML DOM containers. 
+ This is a very basic version and I didn't style the HTML here. However, I have built a site using the above code with styling Click here to open the site. 
+ Github repo: https://github.com/Adarshreddyash/Corona_india_live_stats 
+ Adarshreddy Adelli Thursday, April 16, 2020 javascript web development]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>Build a live Corona tracker using JQuery</h1> </p><p><img src="https://3.bp.blogspot.com/-lrS_gkQsM1Q/XphCF4KVhDI/AAAAAAAALQQ/EV3J8ElgI6gLyiBkxyXrANuwznb6s7nEgCK4BGAYYCw/w600/corona_del.jpg"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Thursday, April 16, 2020 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2020/04/build-corona-live-tracker-using-jquery.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2020/04/build-corona-live-tracker-using-jquery.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2020/04/build-corona-live-tracker-using-jquery.html&media=https://3.bp.blogspot.com/-lrS_gkQsM1Q/XphCF4KVhDI/AAAAAAAALQQ/EV3J8ElgI6gLyiBkxyXrANuwznb6s7nEgCK4BGAYYCw/s72-c/corona_del.jpg&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=7844430555989500071&target=email"></a> <a href="https://api.whatsapp.com/send?text=Build a live Corona tracker using JQuery https://glammingspace.blogspot.com/2020/04/build-corona-live-tracker-using-jquery.html"></a> </p><p> Well, coronavirus is everywhere now and most countries are suffering from its effect. I hope everything should be fine within a short period. In this post, we shall build a basic live corona tracker using a javascript's jquery library. </p><p> <a href="//3.bp.blogspot.com/-lrS_gkQsM1Q/XphCF4KVhDI/AAAAAAAALQQ/EV3J8ElgI6gLyiBkxyXrANuwznb6s7nEgCK4BGAYYCw/s1600/corona_del.jpg"><img src="https://3.bp.blogspot.com/-lrS_gkQsM1Q/XphCF4KVhDI/AAAAAAAALQQ/EV3J8ElgI6gLyiBkxyXrANuwznb6s7nEgCK4BGAYYCw/s200/corona_del.jpg"></a></p><p> Developers will be ready to create solutions to supplement to the world whenever a pandemic enters. Now let us create something !. Thanks to sources like <a href="https://github.com/NovelCOVID/API/">NovelCovid API</a> for providing the live data. </p><p> As always we will go with the Html first. </p><p> div id ="https://glammingspace.blogspot.com/2020/04/total" > span > span > div > div id ="https://glammingspace.blogspot.com/2020/04/d" > span > span > div > div id ="https://glammingspace.blogspot.com/2020/04/ac" > span class ="https://glammingspace.blogspot.com/2020/04/count" > span > div > div id ="https://glammingspace.blogspot.com/2020/04/rc" > span class ="https://glammingspace.blogspot.com/2020/04/count" > span > div > Here total stands for total, d, ac, rc stands for total cases, deaths, active cases, recovered cases respectively. </p><p> For now, I am going to build this tracker only for India but you could build it for global without changing anything except API URL. If you open the API in the browser, It shows a JSON. </p><p> {"updated":1587037599908,"country":"India","countryInfo":{"_id":356,"iso2":"IN","iso3":"IND","lat":20,"long":77,"flag":"https://raw.githubusercontent.com/NovelCOVID/API/master/assets/flags/in.png"},"cases":12456,"todayCases":86,"deaths":423,"todayDeaths":1,"recovered":1513,"active":10520,"critical":0,"casesPerOneMillion":9,"deathsPerOneMillion":0,"tests":274599,"testsPerOneMillion":199} Now let us write jquery to pull and display the data from this JSON. </p><p> $.getJSON('https://corona.lmao.ninja/countries/India', function(data) {</p><p> var text = `${data.cases}</p><p>`</p><p> var deathsc = `${data.deaths}`</p><p> var activec = `${data.active}`</p><p> var recoveredc = `${data.recovered}`</p><p> var todayCasesc = `${data.todayCases}`</p><p> $('#mypanel').html(text);</p><p> $('#d').html(deathsc);</p><p> $('#ac').html(activec);</p><p> $('#rc').html(recoveredc);});</p><p> Initially, we are fetching the JSON data and then we are storing them in some variables and appending the data to the HTML DOM containers. </p><p> This is a very basic version and I didn't style the HTML here. However, I have built a site using the above code with styling <a href="https://adarshreddyash.github.io/Corona_india_live_stats/">Click here</a> to open the site. </p><p> Github repo:<a href="https://github.com/Adarshreddyash/Corona_india_live_stats">https://github.com/Adarshreddyash/Corona_india_live_stats</a> </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Thursday, April 16, 2020 <a href="https://glammingspace.blogspot.com/search/label/javascript">javascript</a> <a href="https://glammingspace.blogspot.com/search/label/web development">web development</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://3.bp.blogspot.com/-lrS_gkQsM1Q/XphCF4KVhDI/AAAAAAAALQQ/EV3J8ElgI6gLyiBkxyXrANuwznb6s7nEgCK4BGAYYCw/w1200-h630-p-k-no-nu/corona_del.jpg" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">740937540</guid>
+			<title>Sending pull request from command line</title>
+			<link>https://glammingspace.blogspot.com/2020/03/sending-pull-request-from-command-line.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>clone a repository that you want to contribute. open the cloned repository create a branch using git branch $ git branch branch1 Now check out the newly created branch using git checkout command git checkout branch1 git checkout -b branch1 creates a branch and checkout. make some changes to the repository.</description>
+			<yandex:full-text><![CDATA[Sending pull request from command line
+ Posted by Adarshreddy Adelli 
+ Thursday, March 19, 2020 
+ Well! Many of the starters in the opensource world would love to add their ideas and resolve problems that exist in an opensource project. PR's (PULL REQUEST) help us to do that. So let's send our first PR. 
+clone a repository that you want to contribute.
+open the cloned repository
+create a branch using git branch $ git branch branch1 
+ Now check out the newly created branch using git checkout command git checkout branch1 
+ git checkout -b branch1 creates a branch and checkout.
+make some changes to the repository.
+add the files git add . 
+now commit git commit -m " hey this is some addition to the repo " 
+ now push your changes git push --set-upstream origin branch1 
+ Adarshreddy Adelli Thursday, March 19, 2020 git github opensource]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>Sending pull request from command line</h1> </p><p><img src="https://1.bp.blogspot.com/-sdXTWRE4jus/XnMwVT7-2uI/AAAAAAAAKVw/xkUbhpdq7NsTMZ2EwXcNGRTuUzlye8H0gCK4BGAYYCw/w600/PULL+REQUEST.jpg"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Thursday, March 19, 2020 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2020/03/sending-pull-request-from-command-line.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2020/03/sending-pull-request-from-command-line.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2020/03/sending-pull-request-from-command-line.html&media=https://1.bp.blogspot.com/-sdXTWRE4jus/XnMwVT7-2uI/AAAAAAAAKVw/xkUbhpdq7NsTMZ2EwXcNGRTuUzlye8H0gCK4BGAYYCw/s72-c/PULL+REQUEST.jpg&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=1673952308745342732&target=email"></a> <a href="https://api.whatsapp.com/send?text=Sending pull request from command line https://glammingspace.blogspot.com/2020/03/sending-pull-request-from-command-line.html"></a> </p><p> Well! Many of the starters in the opensource world would love to add their ideas and resolve problems that exist in an opensource project. PR's (PULL REQUEST) help us to do that. So let's send our first PR. </p><p> <a href="//1.bp.blogspot.com/-sdXTWRE4jus/XnMwVT7-2uI/AAAAAAAAKVw/xkUbhpdq7NsTMZ2EwXcNGRTuUzlye8H0gCK4BGAYYCw/s1600/PULL+REQUEST.jpg"><img src="https://1.bp.blogspot.com/-sdXTWRE4jus/XnMwVT7-2uI/AAAAAAAAKVw/xkUbhpdq7NsTMZ2EwXcNGRTuUzlye8H0gCK4BGAYYCw/s320/PULL+REQUEST.jpg"></a> </p><p>clone a repository that you want to contribute.</p><p>open the cloned repository</p><p>create a branch using git branch $ git branch branch1 </p><p> Now check out the newly created branch using git checkout command git checkout branch1 </p><p> git checkout -b branch1 creates a branch and checkout.</p><p>make some changes to the repository.</p><p>add the files git add . </p><p>now commit git commit -m " hey this is some addition to the repo " </p><p> now push your changes git push --set-upstream origin branch1 </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Thursday, March 19, 2020 <a href="https://glammingspace.blogspot.com/search/label/git">git</a> <a href="https://glammingspace.blogspot.com/search/label/github">github</a> <a href="https://glammingspace.blogspot.com/search/label/opensource">opensource</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://1.bp.blogspot.com/-sdXTWRE4jus/XnMwVT7-2uI/AAAAAAAAKVw/xkUbhpdq7NsTMZ2EwXcNGRTuUzlye8H0gCK4BGAYYCw/w1200-h630-p-k-no-nu/PULL%2BREQUEST.jpg" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">1905279129</guid>
+			<title>Script for displaying your repos using github API</title>
+			<link>https://glammingspace.blogspot.com/2020/06/script-for-displaying-your-repos-using.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>Recently when I am working with my portfolio, I thought I should display my GitHub repositories right there with some extra information like Licence, repo link, and language used in it. I thought this might help you.</description>
+			<yandex:full-text><![CDATA[Script for displaying your repos using github API
+ Posted by Adarshreddy Adelli 
+ Saturday, June 6, 2020 
+ Recently when I am working with my portfolio, I thought I should display my GitHub repositories right there with some extra information like Licence, repo link, and language used in it. I thought this might help you.
+ Lets first create an Html container to display our repositories.
+ Now let's go with the script
+ const classes = {
+ a: "projects-a",
+ li: "projects-li",
+ ul: "projects-ul",
+ lang: "projects-lang",
+ desc: "projects-desc",
+ creat:"projects-creat"
+ };
+ const username = "adarshreddyash";
+ const repoXHR = new XMLHttpRequest();
+ function populate() {
+ const repos = JSON.parse(this.response);
+ const ul = document.getElementsByClassName(classes.ul)[0];
+ for (var i = 0, len = repos.length; i 
+ Now change the username with your username. You can also sort using these values
+updated- recently updated comes first.
+created- recently created comes first.
+pushed -sorts on push
+ Now the beauty part 
+ body{
+ background:#000;
+ }
+ .projects-ul {
+ margin: 0;
+ padding: 0;
+ }
+ .projects-li {
+ box-sizing: border-box;
+ width: 16em;
+ height: 13em;
+ vertical-align: top;
+ display: inline-block;
+ list-style: none;
+ margin: 1em 0 0 1em;
+ padding: 24px;
+ background-color: #272830;
+ box-shadow: 0px 2px 2px rgba(0,0,0,.2), 0px 0px 2px rgba(0,0,0,.2);
+ overflow: hidden;
+ text-overflow: ellipsis;
+ }
+ .projects-li:nth-child(3n-2) {
+ margin: 1em 0 0 0;
+ }
+ .projects-a {
+ height: 11em;
+ display: block;
+ color: #999;
+ text-decoration: none;
+ padding: 0 .5em 0 0;
+ margin: 0;
+ color:#fff;
+ font-size: 1.1em;
+ font-weight:400;
+ font-size:18px;
+ }
+ .projects-a:hover {
+ color: #4C4690;
+ }
+ .projects-lang {
+ color: #999;
+ font-size: .8em;
+ margin: .8em 0 0 0;
+ }
+ .projects-desc {
+ color: #999;
+ text-overflow: inherit;
+ }
+ .projects-lang:after {
+ font-family: "Font Awesome 5 Brands";
+ content: "f092 Github";
+ padding-right: 3px;
+ padding-top:3px;
+ white-space: pre;
+ }
+ .projects-lang:before {
+ font-family: "Font Awesome 5 Free";
+ content: "f1c9";
+ padding-right: 3px;
+ } 
+ See this in action
+ See the Pen Github Api get repos by Adarshreddy adelli ( @adarshreddyadelli )
+ on CodePen .
+ Adarshreddy Adelli Saturday, June 6, 2020 javascript web development]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>Script for displaying your repos using github API</h1> </p><p><img src="https://1.bp.blogspot.com/-G5CYECXIs6Y/Xtx8coH_ZRI/AAAAAAAAMq8/k9JNwXi4XAkZgNefvA36hwXr3WGIBZZbACLcBGAsYHQ/w600/Script+for+displaying+your+repos+from+github+API.jpg"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Saturday, June 6, 2020 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2020/06/script-for-displaying-your-repos-using.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2020/06/script-for-displaying-your-repos-using.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2020/06/script-for-displaying-your-repos-using.html&media=https://1.bp.blogspot.com/-G5CYECXIs6Y/Xtx8coH_ZRI/AAAAAAAAMq8/k9JNwXi4XAkZgNefvA36hwXr3WGIBZZbACLcBGAsYHQ/s72-c/Script+for+displaying+your+repos+from+github+API.jpg&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=3989904915593752669&target=email"></a> <a href="https://api.whatsapp.com/send?text=Script for displaying your repos using github API https://glammingspace.blogspot.com/2020/06/script-for-displaying-your-repos-using.html"></a> </p><p> Recently when I am working with my portfolio, I thought I should display my GitHub repositories right there with some extra information like Licence, repo link, and language used in it. I thought this might help you.</p><p> <a href="https://1.bp.blogspot.com/-G5CYECXIs6Y/Xtx8coH_ZRI/AAAAAAAAMq8/k9JNwXi4XAkZgNefvA36hwXr3WGIBZZbACLcBGAsYHQ/s1600/Script+for+displaying+your+repos+from+github+API.jpg"><img src="https://1.bp.blogspot.com/-G5CYECXIs6Y/Xtx8coH_ZRI/AAAAAAAAMq8/k9JNwXi4XAkZgNefvA36hwXr3WGIBZZbACLcBGAsYHQ/s320/Script+for+displaying+your+repos+from+github+API.jpg"></a></p><p> Lets first create an Html container to display our repositories.</p><p> Now let's go with the script</p><p> const classes = {</p><p> a: "projects-a",</p><p> li: "projects-li",</p><p> ul: "projects-ul",</p><p> lang: "projects-lang",</p><p> desc: "projects-desc",</p><p> creat:"projects-creat"</p><p> };</p><p> const username = "adarshreddyash";</p><p> const repoXHR = new XMLHttpRequest();</p><p> function populate() {</p><p> const repos = JSON.parse(this.response);</p><p> const ul = document.getElementsByClassName(classes.ul)[0];</p><p> for (var i = 0, len = repos.length; i </p><p> Now change the username with your username. You can also sort using these values</p><p>updated- recently updated comes first.</p><p>created- recently created comes first.</p><p>pushed -sorts on push</p><p> Now the beauty part </p><p> body{</p><p> background:#000;</p><p> }</p><p> .projects-ul {</p><p> margin: 0;</p><p> padding: 0;</p><p> }</p><p> .projects-li {</p><p> box-sizing: border-box;</p><p> width: 16em;</p><p> height: 13em;</p><p> vertical-align: top;</p><p> display: inline-block;</p><p> list-style: none;</p><p> margin: 1em 0 0 1em;</p><p> padding: 24px;</p><p> background-color: #272830;</p><p> box-shadow: 0px 2px 2px rgba(0,0,0,.2), 0px 0px 2px rgba(0,0,0,.2);</p><p> overflow: hidden;</p><p> text-overflow: ellipsis;</p><p> }</p><p> .projects-li:nth-child(3n-2) {</p><p> margin: 1em 0 0 0;</p><p> }</p><p> .projects-a {</p><p> height: 11em;</p><p> display: block;</p><p> color: #999;</p><p> text-decoration: none;</p><p> padding: 0 .5em 0 0;</p><p> margin: 0;</p><p> color:#fff;</p><p> font-size: 1.1em;</p><p> font-weight:400;</p><p> font-size:18px;</p><p> }</p><p> .projects-a:hover {</p><p> color: #4C4690;</p><p> }</p><p> .projects-lang {</p><p> color: #999;</p><p> font-size: .8em;</p><p> margin: .8em 0 0 0;</p><p> }</p><p> .projects-desc {</p><p> color: #999;</p><p> text-overflow: inherit;</p><p> }</p><p> .projects-lang:after {</p><p> font-family: "Font Awesome 5 Brands";</p><p> content: "f092  Github";</p><p> padding-right: 3px;</p><p> padding-top:3px;</p><p> white-space: pre;</p><p> }</p><p> .projects-lang:before {</p><p> font-family: "Font Awesome 5 Free";</p><p> content: "f1c9";</p><p> padding-right: 3px;</p><p> } </p><p> See this in action</p><p> See the Pen <a href="https://codepen.io/adarshreddyadelli/pen/zYrxJyb">Github Api get repos</a> by Adarshreddy adelli (<a href="https://codepen.io/adarshreddyadelli">@adarshreddyadelli</a>)</p><p> on <a href="https://codepen.io/">CodePen</a>.</p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Saturday, June 6, 2020 <a href="https://glammingspace.blogspot.com/search/label/javascript">javascript</a> <a href="https://glammingspace.blogspot.com/search/label/web development">web development</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://1.bp.blogspot.com/-G5CYECXIs6Y/Xtx8coH_ZRI/AAAAAAAAMq8/k9JNwXi4XAkZgNefvA36hwXr3WGIBZZbACLcBGAsYHQ/w1200-h630-p-k-no-nu/Script%2Bfor%2Bdisplaying%2Byour%2Brepos%2Bfrom%2Bgithub%2BAPI.jpg" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">3990993514</guid>
+			<title>Gray Hat Hacking and Complete Guide to Hacking PDF free download</title>
+			<link>https://glammingspace.blogspot.com/2019/11/gray-hat-hacking-and-complete-guide-to.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>A blog for tech enthusiasts , AI , LINUX , python , web development , django , flask , tensorflow etc..</description>
+			<yandex:full-text><![CDATA[Gray Hat Hacking and Complete Guide to Hacking PDF free download
+ Posted by Adarshreddy Adelli 
+ Sunday, November 24, 2019 
+ .
+ Title: Gray Hat Hacking and Complete Guide to Hacking.
+ Format: PDF
+ Download 
+ Adarshreddy Adelli Sunday, November 24, 2019 android hacking forensics]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>Gray Hat Hacking and Complete Guide to Hacking PDF free download</h1> </p><p><img src="https://1.bp.blogspot.com/-Jy8u0eAFw9U/XdpTxuLNrQI/AAAAAAAAIQk/RJR8k2TC_JEVX5k7ngQZLb9vrCeXZFgGQCPcBGAYYCw/w600/Gray+Hat+Hacking.png"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Sunday, November 24, 2019 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2019/11/gray-hat-hacking-and-complete-guide-to.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2019/11/gray-hat-hacking-and-complete-guide-to.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2019/11/gray-hat-hacking-and-complete-guide-to.html&media=https://1.bp.blogspot.com/-Jy8u0eAFw9U/XdpTxuLNrQI/AAAAAAAAIQk/RJR8k2TC_JEVX5k7ngQZLb9vrCeXZFgGQCPcBGAYYCw/s72-c/Gray+Hat+Hacking.png&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=6331940496141478707&target=email"></a> <a href="https://api.whatsapp.com/send?text=Gray Hat Hacking and Complete Guide to Hacking PDF free download https://glammingspace.blogspot.com/2019/11/gray-hat-hacking-and-complete-guide-to.html"></a> </p><p> <a href="https://1.bp.blogspot.com/-Jy8u0eAFw9U/XdpTxuLNrQI/AAAAAAAAIQk/RJR8k2TC_JEVX5k7ngQZLb9vrCeXZFgGQCPcBGAYYCw/s1600/Gray+Hat+Hacking.png"><img src="https://1.bp.blogspot.com/-Jy8u0eAFw9U/XdpTxuLNrQI/AAAAAAAAIQk/RJR8k2TC_JEVX5k7ngQZLb9vrCeXZFgGQCPcBGAYYCw/s200/Gray+Hat+Hacking.png"></a></p><p> .</p><p> Title: Gray Hat Hacking and Complete Guide to Hacking.</p><p> Format: PDF</p><p> <a href="https://drive.google.com/file/d/14l-tFKpmnkdHVmrB8ZM0iGW3VrbokJMz/view?usp=sharing">Download</a> </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Sunday, November 24, 2019 <a href="https://glammingspace.blogspot.com/search/label/android hacking">android hacking</a> <a href="https://glammingspace.blogspot.com/search/label/forensics">forensics</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://1.bp.blogspot.com/-Jy8u0eAFw9U/XdpTxuLNrQI/AAAAAAAAIQk/RJR8k2TC_JEVX5k7ngQZLb9vrCeXZFgGQCPcBGAYYCw/w1200-h630-p-k-no-nu/Gray%2BHat%2BHacking.png" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">3759359744</guid>
+			<title>Github acquires npm! what they benefit from this?</title>
+			<link>https://glammingspace.blogspot.com/2020/03/github-acquires-npm-how-this-benefit.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>We javascript developers love npm. Github recently announced to acquire npm but wait ! what is going to change with this acquisition? Nat Friedman in his blog post stated that they will be supporting npm infrastructure and the developers using npm pro, he also stated that GitHub will be investing in npm making it fast, and scalable.</description>
+			<yandex:full-text><![CDATA[Github acquires npm! what they benefit from this?
+ Posted by Adarshreddy Adelli 
+ Tuesday, March 17, 2020 
+ We javascript developers love npm. Github recently announced to acquire npm but wait ! what is going to change with this acquisition? Nat Friedman in his blog post stated that they will be supporting npm infrastructure and the developers using npm pro, he also stated that GitHub will be investing in npm making it fast, and scalable. 
+ I think this would help not only npm but also Github. Github announced its packages service which hosts software packages. working closely with npm makes its service efficient. GitHub earns from Enterprise and private packages that are hosted on Github packages. 
+ For npm, it has to go to some improvements. for example, it should improve its speed just like what yarn is doing currently. 
+ Let's see in the future, what this acquisition could impact in the developer ecosystem. 
+ Adarshreddy Adelli Tuesday, March 17, 2020 javascript Nodejs]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>Github acquires npm! what they benefit from this?</h1> </p><p><img src="https://3.bp.blogspot.com/-EYcdGRMt63s/XnDfuiWaUMI/AAAAAAAAKTE/FsBRtOLPoWEoiBkgF5MBUW29iuAoqa84gCK4BGAYYCw/w600/Untitled+design.jpg"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Tuesday, March 17, 2020 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2020/03/github-acquires-npm-how-this-benefit.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2020/03/github-acquires-npm-how-this-benefit.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2020/03/github-acquires-npm-how-this-benefit.html&media=https://3.bp.blogspot.com/-EYcdGRMt63s/XnDfuiWaUMI/AAAAAAAAKTE/FsBRtOLPoWEoiBkgF5MBUW29iuAoqa84gCK4BGAYYCw/s72-c/Untitled+design.jpg&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=7565323464065660335&target=email"></a> <a href="https://api.whatsapp.com/send?text=Github acquires npm! what they benefit from this? https://glammingspace.blogspot.com/2020/03/github-acquires-npm-how-this-benefit.html"></a> </p><p> We javascript developers love npm. Github recently announced to acquire npm but wait ! what is going to change with this acquisition? Nat Friedman in his blog post stated that they will be supporting npm infrastructure and the developers using npm pro, he also stated that GitHub will be investing in npm making it fast, and scalable. </p><p> <a href="//3.bp.blogspot.com/-EYcdGRMt63s/XnDfuiWaUMI/AAAAAAAAKTE/FsBRtOLPoWEoiBkgF5MBUW29iuAoqa84gCK4BGAYYCw/s1600/Untitled+design.jpg"><img src="https://3.bp.blogspot.com/-EYcdGRMt63s/XnDfuiWaUMI/AAAAAAAAKTE/FsBRtOLPoWEoiBkgF5MBUW29iuAoqa84gCK4BGAYYCw/s200/Untitled+design.jpg"></a> </p><p> I think this would help not only npm but also Github. Github announced its packages service which hosts software packages. working closely with npm makes its service efficient. GitHub earns from Enterprise and private packages that are hosted on Github packages. </p><p> For npm, it has to go to some improvements. for example, it should improve its speed just like what yarn is doing currently. </p><p> Let's see in the future, what this acquisition could impact in the developer ecosystem. </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Tuesday, March 17, 2020 <a href="https://glammingspace.blogspot.com/search/label/javascript">javascript</a> <a href="https://glammingspace.blogspot.com/search/label/Nodejs">Nodejs</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://3.bp.blogspot.com/-EYcdGRMt63s/XnDfuiWaUMI/AAAAAAAAKTE/FsBRtOLPoWEoiBkgF5MBUW29iuAoqa84gCK4BGAYYCw/w1200-h630-p-k-no-nu/Untitled%2Bdesign.jpg" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">826370464</guid>
+			<title>Separate vocals and background Music from an audio file using Python | Spleeter</title>
+			<link>https://glammingspace.blogspot.com/2019/11/seperate-vocals-and-background-music.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>Spleeter is the Deezer source separation library with pretrained models written in Python and uses Tensorflow. It makes it easy to train source separation model (assuming you have a dataset of isolated sources), and provides already trained state of the art model for performing various flavour of separation :</description>
+			<yandex:full-text><![CDATA[Separate vocals and background Music from an audio file using Python | Spleeter
+ Posted by Adarshreddy Adelli 
+ Tuesday, November 12, 2019 
+ H ello folks! Music streaming apps come with an option that plays only the background of a music file. We can see this mainly in the Karaoke apps. Spleeter is a library developed by Deezer using Tensorflow, that can be used to separate background, vocal from a music file. 
+ Let us install spleeter using pip. 
+ pip install spleeter 
+ Now its time to work with an audio file. For now, we will use sample music from the repo. 
+ wget https://github.com/deezer/spleeter/raw/master/audio_example.mp3 
+ Your browser does not support the audio element.
+ Its time to split the audio file 
+ spleeter separate -i audio_example.mp3 -o output/ 
+ Now navigate to the output folder 
+ ls output/audio_example 
+ we will have two output music files 
+ Vocals.wav 
+ Your browser does not support the audio element.
+ accompaniment.wav 
+ Your browser does not support the audio element.
+ Adarshreddy Adelli Tuesday, November 12, 2019 Machine learning python Tensorflow]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>Separate vocals and background Music from an audio file using Python | Spleeter</h1> </p><p><img src="https://1.bp.blogspot.com/-P1te55wMrNE/XcpDZ6HJLRI/AAAAAAAAIG8/pEkM4UnkM3MydklQdnNwqcf9tHOZVRP3wCLcBGAsYHQ/w600/Seperate+vocals+and+backgound+music+from+an+audio+file+using+Python+_+Spleeter.jpg"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Tuesday, November 12, 2019 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2019/11/seperate-vocals-and-background-music.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2019/11/seperate-vocals-and-background-music.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2019/11/seperate-vocals-and-background-music.html&media=https://1.bp.blogspot.com/-P1te55wMrNE/XcpDZ6HJLRI/AAAAAAAAIG8/pEkM4UnkM3MydklQdnNwqcf9tHOZVRP3wCLcBGAsYHQ/s72-c/Seperate+vocals+and+backgound+music+from+an+audio+file+using+Python+_+Spleeter.jpg&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=1106953617937237728&target=email"></a> <a href="https://api.whatsapp.com/send?text=Separate vocals and background Music from an audio file using Python | Spleeter https://glammingspace.blogspot.com/2019/11/seperate-vocals-and-background-music.html"></a> </p><p> H ello folks! Music streaming apps come with an option that plays only the background of a music file. We can see this mainly in the Karaoke apps. Spleeter is a library developed by Deezer using Tensorflow, that can be used to separate background, vocal from a music file. </p><p> <a href="https://1.bp.blogspot.com/-P1te55wMrNE/XcpDZ6HJLRI/AAAAAAAAIG8/pEkM4UnkM3MydklQdnNwqcf9tHOZVRP3wCLcBGAsYHQ/s1600/Seperate+vocals+and+backgound+music+from+an+audio+file+using+Python+_+Spleeter.jpg"><img src="https://1.bp.blogspot.com/-P1te55wMrNE/XcpDZ6HJLRI/AAAAAAAAIG8/pEkM4UnkM3MydklQdnNwqcf9tHOZVRP3wCLcBGAsYHQ/s320/Seperate+vocals+and+backgound+music+from+an+audio+file+using+Python+_+Spleeter.jpg"></a></p><p> Let us install spleeter using pip. </p><p> pip install spleeter </p><p> Now its time to work with an audio file. For now, we will use sample music from the repo. </p><p> wget https://github.com/deezer/spleeter/raw/master/audio_example.mp3 </p><p> Your browser does not support the audio element.</p><p> Its time to split the audio file </p><p> spleeter separate -i audio_example.mp3 -o output/ </p><p> Now navigate to the output folder </p><p> ls output/audio_example </p><p> we will have two output music files </p><p> Vocals.wav </p><p> Your browser does not support the audio element.</p><p> accompaniment.wav </p><p> Your browser does not support the audio element.</p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Tuesday, November 12, 2019 <a href="https://glammingspace.blogspot.com/search/label/Machine learning">Machine learning</a> <a href="https://glammingspace.blogspot.com/search/label/python">python</a> <a href="https://glammingspace.blogspot.com/search/label/Tensorflow">Tensorflow</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://1.bp.blogspot.com/-P1te55wMrNE/XcpDZ6HJLRI/AAAAAAAAIG8/pEkM4UnkM3MydklQdnNwqcf9tHOZVRP3wCLcBGAsYHQ/w1200-h630-p-k-no-nu/Seperate%2Bvocals%2Band%2Bbackgound%2Bmusic%2Bfrom%2Ban%2Baudio%2Bfile%2Busing%2BPython%2B_%2BSpleeter.jpg" />
+		</item>
+		<item turbo="true">
+			<guid isPermaLink="false">2326173190</guid>
+			<title>React Native Fetch API | Parsing JSON Files</title>
+			<link>https://glammingspace.blogspot.com/2019/10/react-native-fetch-api-parsing-json.html</link>
+			<author>Administrator</author>
+			<category>Site News</category>
+			<description>Networking in React Native, Parsing JSON using react fetch API</description>
+			<yandex:full-text><![CDATA[React Native Fetch API | Parsing JSON Files
+ Posted by Adarshreddy Adelli 
+ Friday, October 25, 2019 
+ F inally, I'm writing my third Post on React Native, you might say this author love parsing JSON or XML feeds. of course, I do, but this might also be an exciting part for most of our developer family. In my previous posts, I have covered Getting Started with React Native and Webview in React Native and this time more interesting parsing JSON in react native. 
+ If you are new to API party read this post 
+ Now fire up your environments and start! 
+ Edit our App.js file and start by importing the required packages 
+ import React from 'react'; import { FlatList, ActivityIndicator, Text, View } from 'react-native'; 
+ Then export your project class with the react component. Let's fetch gspace API. 
+ export default class FetchExample extends React.Component { constructor(props){ super(props); this.state ={ isLoading: true} } componentDidMount(){ return fetch('https://www.googleapis.com/blogger/v3/blogs/6041987638358622721/posts?key=AIzaSyCP4co0djhII1KUifQaVuiKCgFXyP0jfNM') .then((response) => response.json()) .then((responseJson) => { this.setState({ isLoading: false, dataSource: responseJson.items, }, function(){ }); }) .catch((error) =>{ console.error(error); }); } 
+ Here I have used blogger API provided by google cloud because raw JSON of gspace is somewhat claggy. You can also post, do much more with new blogger API, just check its documentation. I have added a loader animation that is displayed while loading the API. 
+ Now its time to render the above JSON response and put it in a view. 
+ render(){ if(this.state.isLoading){ return( ) } return( data={this.state.dataSource} renderItem={({item}) => {item.title}, {item.author.displayName}} keyExtractor={({id}, index) => id} /> ); } } 
+ Then run the code to view the output. 
+ Gist for entire code 
+ Adarshreddy Adelli Friday, October 25, 2019 android App development Nodejs react-native]]></yandex:full-text>
+			<turbo:content><![CDATA[<p><h1>React Native Fetch API | Parsing JSON Files</h1> </p><p><img src="https://1.bp.blogspot.com/-4sbjMpk3Lsc/XbLUwL5K9zI/AAAAAAAAH1g/no1JQYe0PGMex0qLXXKEbwdFK5idUWrTwCLcBGAsYHQ/w600/FETCH+API.jpg"></p><p><img src="//1.bp.blogspot.com/-s-Q9QXiN9rI/XLLO1X_TyGI/AAAAAAAAEHE/x1WnvEpKv6YXqyd1b1T0s5cYnMBsQMbAwCK4BGAYYCw/w100/%E2%80%AA%2B91+91602+25766%E2%80%AC+20181003_190007.jpg"></p><p> Posted by <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> </p><p> Friday, October 25, 2019 </p><p> <a href="https://www.facebook.com/sharer.php?u=https://glammingspace.blogspot.com/2019/10/react-native-fetch-api-parsing-json.html"></a> <a href="https://twitter.com/share?url=https://glammingspace.blogspot.com/2019/10/react-native-fetch-api-parsing-json.html"></a> <a href="https://pinterest.com/pin/create/button/?url=https://glammingspace.blogspot.com/2019/10/react-native-fetch-api-parsing-json.html&media=https://1.bp.blogspot.com/-4sbjMpk3Lsc/XbLUwL5K9zI/AAAAAAAAH1g/no1JQYe0PGMex0qLXXKEbwdFK5idUWrTwCLcBGAsYHQ/s72-c/FETCH+API.jpg&description= + data:post.title"></a><a href="https://www.blogger.com/share-post.g?blogID=6041987638358622721&postID=3562620898091838765&target=email"></a> <a href="https://api.whatsapp.com/send?text=React Native Fetch API | Parsing JSON Files https://glammingspace.blogspot.com/2019/10/react-native-fetch-api-parsing-json.html"></a> </p><p> F inally, I'm writing my third Post on React Native, you might say this author love parsing JSON or XML feeds. of course, I do, but this might also be an exciting part for most of our developer family. In my previous posts, I have covered <a href="https://glammingspace.blogspot.com/2019/09/getting-started-with-react-native.html">Getting Started with React Native</a> and <a href="https://glammingspace.blogspot.com/2019/10/webview-in-react-native.html">Webview in React Native</a> and this time more interesting parsing JSON in react native. </p><p> <a href="https://1.bp.blogspot.com/-4sbjMpk3Lsc/XbLUwL5K9zI/AAAAAAAAH1g/no1JQYe0PGMex0qLXXKEbwdFK5idUWrTwCLcBGAsYHQ/s1600/FETCH+API.jpg"><img src="https://1.bp.blogspot.com/-4sbjMpk3Lsc/XbLUwL5K9zI/AAAAAAAAH1g/no1JQYe0PGMex0qLXXKEbwdFK5idUWrTwCLcBGAsYHQ/s320/FETCH+API.jpg"></a></p><p> If you are new to API party read this <a href="https://glammingspace.blogspot.com/2019/02/programming-apis-in-python-part-1.html">post</a> </p><p> Now fire up your environments and start! </p><p> Edit our App.js file and start by importing the required packages </p><p> import React from 'react'; import { FlatList, ActivityIndicator, Text, View } from 'react-native'; </p><p> Then export your project class with the react component. Let's fetch gspace API. </p><p> export default class FetchExample extends React.Component { constructor(props){ super(props); this.state ={ isLoading: true} } componentDidMount(){ return fetch('https://www.googleapis.com/blogger/v3/blogs/6041987638358622721/posts?key=AIzaSyCP4co0djhII1KUifQaVuiKCgFXyP0jfNM') .then((response) => response.json()) .then((responseJson) => { this.setState({ isLoading: false, dataSource: responseJson.items, }, function(){ }); }) .catch((error) =>{ console.error(error); }); } </p><p> Here I have used blogger API provided by google cloud because raw JSON of gspace is somewhat claggy. You can also post, do much more with new blogger API, just check its documentation. I have added a loader animation that is displayed while loading the API. </p><p> Now its time to render the above JSON response and put it in a view. </p><p> render(){ if(this.state.isLoading){ return( ) } return( data={this.state.dataSource} renderItem={({item}) => {item.title}, {item.author.displayName}} keyExtractor={({id}, index) => id} /> ); } } </p><p> Then run the code to view the output. </p><p> Gist for entire code </p><p> <a href="https://www.blogger.com/profile/11260023874411124735">Adarshreddy Adelli</a> Friday, October 25, 2019 <a href="https://glammingspace.blogspot.com/search/label/android">android</a> <a href="https://glammingspace.blogspot.com/search/label/App development">App development</a> <a href="https://glammingspace.blogspot.com/search/label/Nodejs">Nodejs</a> <a href="https://glammingspace.blogspot.com/search/label/react-native">react-native</a></p>]]></turbo:content>
+			<pubDate>Sun, 07 Jun 2020 05:35:58 GMT</pubDate>
+			<enclosure url="https://1.bp.blogspot.com/-4sbjMpk3Lsc/XbLUwL5K9zI/AAAAAAAAH1g/no1JQYe0PGMex0qLXXKEbwdFK5idUWrTwCLcBGAsYHQ/w1200-h630-p-k-no-nu/FETCH%2BAPI.jpg" />
+		</item>
+	</channel>
+</rss>
